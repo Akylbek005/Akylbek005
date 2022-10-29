@@ -1,13 +1,11 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/iakylbek" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm Akylbek 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-- 👋 Hi, I’m @Akylbek005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Akylbek005/Akylbek005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">School student, python developer from 🇰🇬</h3>
+<ul>
+  <li>👋 Hi, I’m @Akylbek005</li>
+  <li>👀 I’m interested in devOps, backend development, security </li>
+  <li>🌱 I’m currently learning docker, english</li>
+  <li>📫 How to reach me:</li>
+</ul>
+<a href="https://t.me/iakylbek">Telegram</a> <br>
+<a href="https://leetcode.com/iakylbek/">Leetcode</a> 
